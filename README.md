@@ -2,12 +2,13 @@ Test Frontend Quantus Telematika
 
 instalasi
 
-semantic-ui-react
-semanti-ui-css
-react-router-dom
-react-redux
-redux
-redux-thunk
-redux-devtools-extension
-axios
-lodash
+1. semantic-ui-react
+2. semanti-ui-css
+3. react-router-dom
+4. react-redux
+5. redux
+6. redux-thunk
+7. redux-devtools-extension
+8. axios
+9. lodash
+
